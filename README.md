@@ -75,4 +75,4 @@
 
 ## ✨ Personal Touch
 ⭐ *“Always curious, always building.”*  
-Outside coding, I enjoy **tinkering with drones, exploring AR navigation, and experimenting with AI on edge devices.**  
+Outside coding, I enjoy **tinkering with drones, exploring electronics and circuit designing and learning about finance and human psychology.
