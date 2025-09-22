@@ -1,56 +1,78 @@
-# Hi there, I'm Rohan (Cybernet) 👋  
+# Hi there, I'm Rohan  👋  
 
 💻 **Cloud & DevOps Engineer | Backend Developer | B.Tech Student (ECE)**  
-I work on deploying scalable systems, automating infrastructure, and building reliable backend services. Passionate about distributed computing, AI experiments, and system design.  
 
 ---
 
-### 🚀 About Me
-- ☁️ Skilled in **Cloud & DevOps**: GCP, Azure, Docker, Kubernetes, GitHub Actions  
-- 🐍 Strong in **Python Backend Development** → Flask, FastAPI, REST APIs  
-- 🐧 Experienced with **Linux, Server Management & System Design**  
-- 🔧 Hands-on with **CI/CD pipelines, containerization, monitoring (Prometheus + Grafana)**  
-- 📊 Worked on **event-driven systems, Redis, PostgreSQL, and Kafka**  
-- 🎯 Active learner through freelance work, open-source contributions, and cloud workshops  
+## 👨‍💻 Introduction
+- 🎓 I’m a **B.Tech student** in Electronics & Communication Engineering (JNU, New Delhi).  
+- 💻 A **Cloud & DevOps Engineer** with backend development skills.  
+- 🌍 Interested in **Cloud Architecture, DevOps, AI, Backend Systems, and System Design**.  
+- 🛠 Passionate about **Linux, servers, and building scalable infrastructure**.  
 
 ---
 
-### 🛠 Tech Stack
-- **Backend Development** → `Python` `Flask` `FastAPI` `Gunicorn` `REST APIs`  
-- **Cloud & DevOps** → `GCP` `Azure` `Docker` `Kubernetes` `GitHub Actions`  
-- **Infrastructure** → `VMs` `VPC` `Redis` `Kafka` `Linux`  
-- **Databases** → `PostgreSQL` `Redis`  
-- **Monitoring & Automation** → `Prometheus` `Grafana` `CI/CD Pipelines`  
+## 🛠 Skills / Tech Stack
+**Languages**  
+`Python` `Shell Scripting` `JavaScript` `Go (Golang)` `YAML` `HCL`  
+
+**Tools & Platforms**  
+`Linux` `Docker` `Kubernetes` `Git` `GitHub Actions`  
+`Azure` `Google Cloud Platform (GCP)` `Redis` `PostgreSQL`  
+
+**Specializations**  
+- Backend Development (Flask, FastAPI, REST APIs)  
+- Infrastructure as Code (Terraform, YAML, HCL)  
+- System Design & Servers Management  
+- CI/CD & Automation Pipelines  
+- Observability (Prometheus, Grafana)  
 
 ---
 
-### 📌 Featured Projects
+## 🎯 Current Focus
+- 🔹 Exploring **cloud architectures & backend systems**  
+- 🔹 Hands-on with **Terraform, Kafka, and observability stacks**  
+- 🔹 Building **scalable event-driven services & DevOps pipelines**  
+
+---
+
+## 🎯 Next Learning Targets
+- 🔹 **Hyperledger Fabric** – setting up private blockchain networks  
+- 🔹 **General Blockchain Deployment** – smart contracts, decentralized apps, and infra setup  
+
+---
+
+## 📌 Pinned Projects / Highlights
 - 🔹 **Auto-Trading Bot Infra (Dextton – Freelance)**  
-   Deployed containerized trading bots on GCP using Kubernetes, scaled to 100+ clients, integrated Redis, and built monitoring with Prometheus + Grafana.  
+   Deployed containerized trading bots on GCP with Kubernetes, scaled to 100+ clients, added Redis + monitoring.  
 
 - 🔹 **Event-Driven Notification System**  
-   Built with Kafka + microservices on GKE, delivering real-time email, WhatsApp, and push notifications with Prometheus monitoring.  
+   Built with Kafka + Python microservices on GKE. Delivered real-time notifications with Prometheus monitoring.  
 
 - 🔹 **CI/CD for Flask on GCP**  
-   Automated pipeline with GitHub Actions → Cloud Run, zero-downtime rollouts, and Artifact Registry for container images.  
+   GitHub Actions pipeline → Cloud Run deployment with zero-downtime rollouts & Artifact Registry integration.  
 
 - 🔹 **Flask API on Azure**  
-   Deployed Flask API (Gunicorn + Nginx) on Ubuntu VM with Prometheus + Grafana observability and firewall hardening.  
+   Scalable API deployment with Gunicorn + Nginx, secured with firewalls, monitored with Grafana + Prometheus.  
 
 ---
 
-### 🏆 Achievements
-- 🥇 **TryHackMe Top 5%** → 90+ labs in security, privilege escalation, and exploitation  
-- ⚡ **2x Club Fest Winner** → Secretary of VOLT (Electronics Club), Executive in LOOP (Dev Club)  
+## 📊 GitHub Stats & Activity
+![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nxtcybernet&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nxtcybernet&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nxtcybernet&theme=tokyonight)  
 
 ---
 
-### 📫 Connect With Me
+## 📫 Contact Info
+- 📧 Email: **rohantech2005@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/nxtcybernet)  
 - 🐙 [GitHub](https://github.com/nxtcybernet)  
 - 🎮 [TryHackMe](https://tryhackme.com/p/nXtCyberNet)  
-- 📧 rohantech2005@gmail.com  
+- 🐦 [X (Twitter)](https://x.com/)  
 
 ---
 
-⭐ *Always curious, always building.*
+## ✨ Personal Touch
+⭐ *“Always curious, always building.”*  
+Outside coding, I enjoy **tinkering with drones, exploring AR navigation, and experimenting with AI on edge devices.**  
