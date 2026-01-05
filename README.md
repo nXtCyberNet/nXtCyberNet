@@ -69,7 +69,7 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/nxtcybernet)  
 - 🐙 [GitHub](https://github.com/nxtcybernet)  
 - 🎮 [TryHackMe](https://tryhackme.com/p/nXtCyberNet)  
-- 🐦 [X (Twitter)](https://x.com/)  
+- 🐦 [X (Twitter)](https://x.com/nxtcybernet)  
 
 ---
 
