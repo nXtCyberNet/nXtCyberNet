@@ -76,6 +76,14 @@ Infrastructure & deployment automation
 
 ## 📌 Architecture-Focused Projects
 
+* 🔹 **ForgePaaS (In Progress)**
+  A lightweight Platform-as-a-Service focused on developer-first cloud deployments.
+
+  * Abstracts cloud infra into simple platform primitives
+  * Cost-visibility and infra transparency as first-class goals
+  * Designed around Kubernetes-native workloads
+  * Targets small teams and solo developers who want control without complexity
+
 * 🔹 **ForgeTunnel (Open Source)**
   Custom TCP tunneling system written in Go.
 
@@ -106,7 +114,6 @@ Infrastructure & deployment automation
   * Secure IAM and networking
 
 ---
-
 
 ## 📫 Contact Info
 
