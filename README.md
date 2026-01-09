@@ -1,78 +1,125 @@
-# Hi there, I'm Rohan  👋  
+# Hi there, I'm Rohan 👋
 
-💻 **Cloud & DevOps Engineer | Backend Developer | B.Tech Student (ECE)**  
+☁️ **Cloud Engineer | Aspiring Cloud Architect | Platform & Infrastructure Builder**
 
 ---
 
 ## 👨‍💻 Introduction
-- 🎓 I’m a **B.Tech student** in Electronics & Communication Engineering (JNU, New Delhi).  
-- 💻 A **Cloud & DevOps Engineer** with backend development skills.  
-- 🌍 Interested in **Cloud Architecture, DevOps, AI, Backend Systems, and System Design**.  
-- 🛠 Passionate about **Linux, servers, and building scalable infrastructure**.  
+
+* 🎓 **B.Tech student (ECE)** with strong focus on systems and infrastructure.
+* ☁️ Cloud Engineer building **scalable, secure, and cost-aware cloud platforms**.
+* 🧠 Interested in **Cloud Architecture, Distributed Systems, DevOps, and Platform Engineering**.
+* 🛠 Design-first mindset: architecture before tools.
+* 🚀 Long-term goal: **Cloud Architect / Platform Architect**.
 
 ---
 
-## 🛠 Skills / Tech Stack
-**Languages**  
-`Python` `Shell Scripting` `JavaScript` `Go (Golang)` `YAML` `HCL`  
+## ☁️ Cloud & Architecture Skills
 
-**Tools & Platforms**  
-`Linux` `Docker` `Kubernetes` `Git` `GitHub Actions`  
-`Azure` `Google Cloud Platform (GCP)` `Redis` `PostgreSQL`  
+### **Cloud Platforms**
 
-**Specializations**  
-- Backend Development (Flask, FastAPI, REST APIs)  
-- Infrastructure as Code (Terraform, YAML, HCL)  
-- System Design & Servers Management  
-- CI/CD & Automation Pipelines  
-- Observability (Prometheus, Grafana)  
+`Google Cloud Platform (GCP)` `AWS` `Azure`
+
+### **Core Architecture Concepts**
+
+* Cloud-native architecture
+* High availability & fault tolerance
+* Scalability & load-based design
+* Secure networking & IAM
+* Cost-aware infrastructure design
+
+### **Infrastructure & Platform**
+
+`Linux` `Docker` `Kubernetes (GKE)`
+`Terraform` `YAML` `HCL`
+
+### **CI/CD & Automation**
+
+`Git` `GitHub Actions`
+Infrastructure & deployment automation
+
+### **Observability & Reliability**
+
+`Prometheus` `Grafana`
+
+---
+
+## 🧠 Backend & System Skills
+
+`Python` `Go (Golang)` `Shell Scripting` `JavaScript`
+`Flask` `FastAPI` `REST APIs`
+`Redis` `PostgreSQL`
+
+* API-driven architecture
+* Event-driven systems
+* Networking & tunneling fundamentals
+* Linux server administration
 
 ---
 
 ## 🎯 Current Focus
-- 🔹 Exploring **cloud architectures & backend systems**  
-- 🔹 Hands-on with **Terraform, Kafka, and observability stacks**  
-- 🔹 Building **scalable event-driven services & DevOps pipelines**  
+
+* 🔹 Designing **cloud architectures for real workloads**
+* 🔹 Advanced **Terraform + Kubernetes** usage
+* 🔹 Event-driven systems using **Kafka**
+* 🔹 Building **platform-level tools and infra utilities**
 
 ---
 
 ## 🎯 Next Learning Targets
-- 🔹 **Hyperledger Fabric** – setting up private blockchain networks  
-- 🔹 **General Blockchain Deployment** – smart contracts, decentralized apps, and infra setup  
+
+* 🔹 Advanced **Cloud Architecture Patterns**
+* 🔹 **Hyperledger Fabric** (private networks & infra design)
+* 🔹 **Multi-region and high-availability systems**
 
 ---
 
-## 📌 Pinned Projects / Highlights
-- 🔹 **Auto-Trading Bot Infra (Dextton – Freelance)**  
-   Deployed containerized trading bots on GCP with Kubernetes, scaled to 100+ clients, added Redis + monitoring.  
+## 📌 Architecture-Focused Projects
 
-- 🔹 **Event-Driven Notification System**  
-   Built with Kafka + Python microservices on GKE. Delivered real-time notifications with Prometheus monitoring.  
+* 🔹 **ForgeTunnel (Open Source)**
+  Custom TCP tunneling system written in Go.
 
-- 🔹 **CI/CD for Flask on GCP**  
-   GitHub Actions pipeline → Cloud Run deployment with zero-downtime rollouts & Artifact Registry integration.  
+  * App-level routing without root access
+  * Lightweight alternative to VPNs and reverse proxies
+  * Focus on security, performance, and simplicity
 
-- 🔹 **Flask API on Azure**  
-   Scalable API deployment with Gunicorn + Nginx, secured with firewalls, monitored with Grafana + Prometheus.  
+* 🔹 **Auto-Trading Platform Infrastructure (Dextton – Freelance)**
+  Architected Kubernetes-based cloud infrastructure on GCP.
+
+  * 100+ isolated client workloads
+  * Redis-based coordination
+  * Custom cluster scaling logic
+  * Full observability with Prometheus & Grafana
+
+* 🔹 **Kafka-Based Event & Notification System**
+  Designed an event-driven system using Kafka and Python microservices.
+
+  * API-based producers
+  * Multiple consumer services
+  * Throughput and load testing
+
+* 🔹 **Cloud CI/CD Architecture**
+  End-to-end CI/CD pipelines:
+  GitHub Actions → Artifact Registry → Cloud Run / GKE
+
+  * Zero-downtime deployments
+  * Secure IAM and networking
 
 ---
 
-## 📊 GitHub Stats & Activity
-![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nxtcybernet&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nxtcybernet&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nxtcybernet&theme=tokyonight)  
-
----
 
 ## 📫 Contact Info
-- 📧 Email: **rohantech2005@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/nxtcybernet)  
-- 🐙 [GitHub](https://github.com/nxtcybernet)  
-- 🎮 [TryHackMe](https://tryhackme.com/p/nXtCyberNet)  
-- 🐦 [X (Twitter)](https://x.com/nxtcybernet)  
+
+* 📧 Email: **[rohantech2005@gmail.com](mailto:rohantech2005@gmail.com)**
+* 💼 LinkedIn: [https://www.linkedin.com/in/nxtcybernet](https://www.linkedin.com/in/nxtcybernet)
+* 🐙 GitHub: [https://github.com/nxtcybernet](https://github.com/nxtcybernet)
+* 🎮 TryHackMe: [https://tryhackme.com/p/nXtCyberNet](https://tryhackme.com/p/nXtCyberNet)
+* 🐦 X (Twitter): [https://x.com/nxtcybernet](https://x.com/nxtcybernet)
 
 ---
 
-## ✨ Personal Touch
-⭐ *“Always curious, always building.”*  
-Outside coding, I enjoy **tinkering with drones, exploring electronics and circuit designing and learning about finance and human psychology.
+## ✨ Personal Statement
+
+⭐ *"I design systems first, then choose tools."*
+
+I enjoy building infrastructure from scratch, understanding failure modes, and designing systems that scale cleanly and break gracefully.
