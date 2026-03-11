@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nXtCyberNet)](https://github.com/anuraghazra/github-readme-stats)
+
 # Hi there, I'm Rohan 👋
 
 ☁️ **Cloud Engineer | Aspiring Cloud Architect | Platform & Infrastructure Builder**
