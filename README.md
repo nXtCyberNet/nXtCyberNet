@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nXtCyberNet)](https://github.com/anuraghazra/github-readme-stats)
+![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nxtcybernet&include_all_commits=true&show_icons=true&theme=radical&show=reviews,prs,issues,contribs&count_private=true)
 
 # Hi there, I'm Rohan 👋
 
